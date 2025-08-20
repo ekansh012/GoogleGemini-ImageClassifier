@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Images folder (temporary downloads)
+images/
+
+# Excel outputs
+updated_file.xlsx
+
+# Jupyter notebooks checkpoints (if used later)
+.ipynb_checkpoints/
